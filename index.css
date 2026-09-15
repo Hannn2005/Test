@@ -1,0 +1,9 @@
+nav{
+    background-color: red;
+    color: white;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    gap: 8px;
+}
+
